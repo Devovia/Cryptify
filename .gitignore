@@ -1,0 +1,55 @@
+# Ignore Python virtual environment
+venv/
+.env/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore local settings and secrets
+settings.py
+secrets.py
+*.env
+*.key
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
+
+# Ignore pyinstaller output
+*.spec
+
+# Ignore folders and files in my working directory
+/temp/
