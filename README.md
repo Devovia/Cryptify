@@ -22,8 +22,7 @@
 ## Future Enhancements
 - Add support for more encryption algorithms.
 - Enable file encryption/decryption.
-- Develop a mobile version of Cryptify.
-
+- Add History Log to Save the history of encrypted/decrypted texts in a file
 ## Installation
 1. Clone the repository:
    ```bash
